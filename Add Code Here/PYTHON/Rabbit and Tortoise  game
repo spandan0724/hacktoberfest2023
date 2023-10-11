@@ -1,0 +1,7 @@
+Certainly, here's a commit message and description for the provided code:
+
+**Commit Message:**
+"Implemented a basic text-based rabbit and tortoise race game."
+
+**Description:**
+This commit introduces a simple text-based game featuring a race between a rabbit and a tortoise. Players can control the rabbit's progress as they both make random moves, with the goal of reaching the finish line first. The game is initialized with a welcome message and allows players to participate interactively. The winner, either the rabbit or the tortoise, is determined based on their respective positions.
